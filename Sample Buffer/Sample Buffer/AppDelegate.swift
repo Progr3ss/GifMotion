@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  VideoCamera
+//  Sample Buffer
 //
-//  Created by Martin Chibwe on 10/28/17.
+//  Created by Martin Chibwe on 11/2/17.
 //  Copyright © 2017 Martin Chibwe. All rights reserved.
 //
 
